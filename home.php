@@ -83,8 +83,6 @@ $posts_recent = [
 ];
 ?>
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -96,7 +94,7 @@ $posts_recent = [
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Oxygen:wght@300;400;700&display=swap"
         rel="stylesheet">
     <title>The Road Ahead</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style/style.css">
 </head>
 
 <body>
@@ -116,8 +114,7 @@ $posts_recent = [
             </div>
             <div class="introduction">
                 <h1 class="introduction__title">Let's do it together.</h1>
-                <h2 class="introduction__subtitle">We travel the world in search of stories. Come along for the ride.
-                </h2>
+                <h2 class="introduction__subtitle">We travel the world in search of stories. Come along for the ride.</h2>
                 <button class="introduction__button">View Latest Posts</button>
             </div>
         </div>

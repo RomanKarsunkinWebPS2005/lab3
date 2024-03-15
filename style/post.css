@@ -108,7 +108,7 @@
 
 .footer__container {
     z-index: 0;
-    background-image: url("img/IMAGE2.png");
+    background-image: url("../img/IMAGE2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

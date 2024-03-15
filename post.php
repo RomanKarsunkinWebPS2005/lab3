@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital@0;1&family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
     <title>The Road Ahead</title>
-    <link rel="stylesheet" href="post.css">
+    <link rel="stylesheet" href="style/post.css">
 </head>
 <body>
     <header>

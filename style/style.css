@@ -368,6 +368,19 @@
     color: #999999;
 }
 
+.post-second:hover {
+    box-shadow: 0 0 20px black;
+    transition: all 0.3s linear;
+    cursor: pointer;   
+}
+
+.post:hover {
+    box-shadow: 0 0 20px black;
+    transition: all 0.3s linear;
+    cursor: pointer;   
+}
+
+
 .author-second {
     display: flex;
     align-items: center;
@@ -395,7 +408,7 @@
 
 .footer {
     z-index: 0;
-    background-image: url("img/footer-background.png");
+    background-image: url("../img/footer-background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
