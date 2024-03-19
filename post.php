@@ -16,7 +16,7 @@
           <nav class="menu">
             <ul class="menu-list">
               <li class="menu-list-item">
-                <a class="menu-link" href="#">HOME</a>
+                <a class="menu-link" href="home.php">HOME</a>
               </li>
               <li class="menu-list-item">
                 <a class="menu-link" href="#">CATEGORIES</a>

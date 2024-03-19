@@ -1,4 +1,5 @@
 <article class="post-second">
+    <a href="post.php" class="post__link"></a>
     <img class="post-second__image" src="<?= $post_recent['img_modifier'] ?>" alt="">
     <div class="post-second__filling">
         <div class="post-second__header">

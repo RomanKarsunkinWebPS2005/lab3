@@ -1,6 +1,7 @@
 <?php
 $posts = [
     [
+        'id' => 1,
         'title' => 'The Road Ahead',
         'subtitle' => 'The road ahead might be paved - it might not be.',
         'img_modifier' => 'img/postfirst.jpg',
@@ -10,6 +11,7 @@ $posts = [
         // другие свойства этого поста
     ],
     [
+        'id' => 2,
         'title' => 'From Top Dawn',
         'subtitle' => 'Once a year, go someplace you’ve never been before.',
         'img_modifier' => 'img/postsecond.jpg',
@@ -24,6 +26,7 @@ $posts = [
 <?php
 $posts_recent = [
     [
+        'id' => 3,
         'title' => 'Still Standing Tall',
         'subtitle' => 'Life begins at the end of your comfort zone.',
         'img_modifier' => 'img/varposts-first.jpg',
@@ -33,6 +36,7 @@ $posts_recent = [
         // другие свойства этого поста
     ],
     [
+        'id' => 4,
         'title' => 'Sunny Side Up',
         'subtitle' => 'No place is ever as bad as they tell you it’s goingto be.',
         'img_modifier' => 'img/varposts-second.jpg',
@@ -42,6 +46,7 @@ $posts_recent = [
         // свойства второго поста
     ],
     [
+        'id' => 5,
         'title' => 'Water Falls',
         'subtitle' => 'We travel not to escape life, but for life not to
         escape us.',
@@ -52,6 +57,7 @@ $posts_recent = [
         // свойства второго поста
     ],
     [
+        'id' => 6,
         'title' => 'Through the Mist',
         'subtitle' => 'Travel makes you see what a tiny place you occupy in
         the world.',
@@ -62,6 +68,7 @@ $posts_recent = [
         // другие свойства этого поста
     ],
     [
+        'id' => 7,
         'title' => 'TAwaken Early',
         'subtitle' => 'Not all those who wander are lost.',
         'img_modifier' => 'img/varposts-fifth.jpg',
@@ -71,6 +78,7 @@ $posts_recent = [
         // другие свойства этого поста
     ],
     [
+        'id' => 8,
         'title' => 'Try it Always',
         'subtitle' => 'The world is a book, and those who do not travel
         read only one page.',
