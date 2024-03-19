@@ -1,5 +1,5 @@
 <article class="post">
-    <a href="post.php" class="post__link"></a>
+    <a href='/post?id=<?= $post['id'] ?>' class="post__link"></a>
     <img class="post__image" src="<?= $post['img_modifier'] ?>">
     <div class="post__filling">
         <span class="post__title"><?= $post['title'] ?></span>

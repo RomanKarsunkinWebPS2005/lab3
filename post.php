@@ -1,3 +1,8 @@
+<?php
+  foreach ($_GET as $postId => $id) {
+    echo "{$postId} = {$id} </br>";
+  }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
